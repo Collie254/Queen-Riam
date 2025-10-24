@@ -3,16 +3,16 @@ const settings = {
   author: 'Hecor Manuel',
   botName: "Queen Riam",
   botOwner: 'Hector Manuel', 
-  timezone: 'Africa/Accra',
+  timezone: 'Africa/Nairobi',
   prefix: '.',
-  ownerNumber: '+233509977126', 
+  ownerNumber: '+254759141102', 
   AUTO_STATUS_REACT: 'true',
   AUTO_STATUS_REPLY: 'false',
   AUTO_STATUS_MSG: 'Status Viewed Queen Riam',
 
-  AUTORECORD: 'false',
+  AUTORECORD: 'true',
   AUTOTYPE: 'false',
-  AUTORECORDTYPE: 'false',
+  AUTORECORDTYPE: 'true',
   
 
   
